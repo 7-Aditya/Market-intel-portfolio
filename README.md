@@ -19,7 +19,7 @@ Built a Python-based market intelligence system to analyze large-scale financial
 - Enabled faster, data-driven investment decisions
 
 📄 **Project Report:**  
-`outputs/Market_Intelligence_Presentation.pdf`
+📄 [View Project PDF](outputs/Market_Intelligence_Presentation.pdf) 
 
 ## 📊 Advanced Financial Modeling & Valuation (DCF)
 
