@@ -28,7 +28,7 @@ using DCF and ratio analysis.
 
 📄 [View Project PDF](outputs/Adani_vs_CBRE_Financial_Modeling_Portfolio.pdf)
 
-📊 Supply Chain Analytics — Power BI
+## 📊 Supply Chain Analytics — Power BI
 
 Project: FMCG Supply Chain Control Tower
 
@@ -52,5 +52,4 @@ Key Insights:
 • OTIF performance deteriorates significantly during logistics delays  
 • A small number of warehouses disproportionately impact overall service levels  
 
-📄 Project Report:
-👉 View Project PDF 📄 [View Project PDF](outputs/FMCG_Supply_Chain_PowerBI_Portfolio.pdf)
+📄 [View Project PDF](outputs/FMCG_Supply_Chain_PowerBI_Portfolio.pdf)
