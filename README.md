@@ -27,3 +27,30 @@ Comparative valuation of Adani Enterprises (asset-heavy infrastructure) vs CBRE 
 using DCF and ratio analysis.
 
 📄 [View Project PDF](outputs/Adani_vs_CBRE_Financial_Modeling_Portfolio.pdf)
+
+📊 Supply Chain Analytics — Power BI
+
+Project: FMCG Supply Chain Control Tower
+
+Context:
+Academic case study simulating FMCG supply chain operations, with emphasis on service levels, stockouts, revenue performance, and logistics efficiency.
+
+Objective:
+• Identify root causes of stockouts and delivery delays  
+• Monitor OTIF, revenue, and cost-to-serve across regions and warehouses  
+• Enable operational decision-making using interactive dashboards  
+
+What I built:
+• End-to-end Supply Chain Control Tower in Power BI  
+• KPI cards tracking Stockout Rate, OTIF %, and Total Revenue  
+• Time-series analysis of revenue and service-level trends  
+• Root cause analysis using Key Influencers and decomposition views  
+• Warehouse- and region-level performance comparison  
+
+Key Insights:
+• Delivery delays (>5 days) are the strongest driver of increased transportation cost  
+• OTIF performance deteriorates significantly during logistics delays  
+• A small number of warehouses disproportionately impact overall service levels  
+
+📄 Project Report:
+👉 View Project PDF 📄 [View Project PDF](outputs/FMCG_Supply_Chain_PowerBI_Portfolio.pdf)
