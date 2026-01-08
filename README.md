@@ -20,3 +20,10 @@ Built a Python-based market intelligence system to analyze large-scale financial
 
 📄 **Project Report:**  
 `outputs/Market_Intelligence_Presentation.pdf`
+
+## 📊 Advanced Financial Modeling & Valuation (DCF)
+
+Comparative valuation of Adani Enterprises (asset-heavy infrastructure) vs CBRE Group (asset-light services)
+using DCF and ratio analysis.
+
+📄 [View Project PDF](outputs/Adani_vs_CBRE_Financial_Modeling_Portfolio.pdf)
