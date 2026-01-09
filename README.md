@@ -30,24 +30,24 @@ using DCF and ratio analysis.
 
 ## 📊 Supply Chain Analytics — Power BI
 
-Project: FMCG Supply Chain Control Tower
+**Project:** FMCG Supply Chain Control Tower
 
-Context:
+**Context:**
 Academic case study simulating FMCG supply chain operations, with emphasis on service levels, stockouts, revenue performance, and logistics efficiency.
 
-Objective:
+**Objective:**
 • Identify root causes of stockouts and delivery delays  
 • Monitor OTIF, revenue, and cost-to-serve across regions and warehouses  
 • Enable operational decision-making using interactive dashboards  
 
-What I built:
+**What I built:**
 • End-to-end Supply Chain Control Tower in Power BI  
 • KPI cards tracking Stockout Rate, OTIF %, and Total Revenue  
 • Time-series analysis of revenue and service-level trends  
 • Root cause analysis using Key Influencers and decomposition views  
 • Warehouse- and region-level performance comparison  
 
-Key Insights:
+**Key Insights:**
 • Delivery delays (>5 days) are the strongest driver of increased transportation cost  
 • OTIF performance deteriorates significantly during logistics delays  
 • A small number of warehouses disproportionately impact overall service levels  
@@ -56,16 +56,16 @@ Key Insights:
 
 ## 📈 Python Quantitative Finance Toolkit
 
-Objective:
+**Objective:**
 Built a Python-based toolkit to analyze stock returns, portfolio risk, and financial uncertainty using quantitative finance techniques.
 
-What I did:
+**What I did:**
 • Portfolio optimization using Efficient Frontier
 • Risk & volatility analysis
 • Regression and multivariate modeling
 • Monte Carlo simulations for price prediction and option valuation
 
-Key Insights:
+**Key Insights:**
 • Diversification improves risk-adjusted returns
 • Financial relationships are unstable under stress
 • Monte Carlo simulations capture market uncertainty better than point estimates
@@ -74,32 +74,32 @@ Key Insights:
 
 ## 🤖 FinTech Robo-Advisor — Retirement Planning
 
-Objective  
+**Objective**  
 Developed a digital retirement planning Robo-Advisor to estimate inflation-adjusted retirement corpus and required monthly SIP using real-world financial logic.
 
-Highlights  
+**Highlights**  
 • Inflation-adjusted retirement corpus estimation using real returns  
 • SIP calculation based on annuity-style cash flow modeling  
 • Precision benchmarking against Excel financial models  
 • Responsive, production-ready web interface  
 
-Key Insight  
+**Key Insight**
 Even small numerical precision errors can materially impact long-term financial outcomes, making validation and accuracy critical in FinTech applications.
 
 📄 [View Project PDF](outputs/FinTech_Robo_Advisor_Retirement_Planning_Portfolio.pdf)
 
 ## 🤖 Fraud & Risk Analytics — Credit Card Fraud Detection (ML)
 
-Objective  
+**Objective**  
 Built a machine learning solution to detect fraudulent credit card transactions while minimizing false positives and customer disruption.
 
-Highlights  
+**Highlights** 
 • Extreme class imbalance handling (<0.2% fraud rate)  
 • Model comparison: Logistic Regression vs Random Forest  
 • Business-driven metric selection (Precision, Recall, ROC-AUC)  
 • Recommendation based on customer experience, not just accuracy  
 
-Key Insight  
+**Key Insight**  
 Random Forest significantly reduces false positives compared to Logistic Regression, making it more suitable for real-world fraud prevention systems.
 
 📄 [View Project PDF](outputs/Fraud_Risk_Analytics_Credit_Card_Fraud_Portfolio.pdf) 
