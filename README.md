@@ -53,3 +53,22 @@ Key Insights:
 • A small number of warehouses disproportionately impact overall service levels  
 
 📄 [View Project PDF](outputs/FMCG_Supply_Chain_PowerBI_Portfolio.pdf)
+
+## 📈 Python Quantitative Finance Toolkit
+
+Objective:
+Built a Python-based toolkit to analyze stock returns, portfolio risk, and financial uncertainty using quantitative finance techniques.
+
+What I did:
+• Portfolio optimization using Efficient Frontier
+• Risk & volatility analysis
+• Regression and multivariate modeling
+• Monte Carlo simulations for price prediction and option valuation
+
+Key Insights:
+• Diversification improves risk-adjusted returns
+• Financial relationships are unstable under stress
+• Monte Carlo simulations capture market uncertainty better than point estimates
+
+📄 [View Project PDF](outputs/Python_Quantitative_Finance_Toolkit_Portfolio.pdf)
+
