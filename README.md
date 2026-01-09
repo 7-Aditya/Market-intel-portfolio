@@ -88,3 +88,20 @@ Even small numerical precision errors can materially impact long-term financial 
 
 📄 [View Project PDF](outputs/FinTech_Robo_Advisor_Retirement_Planning_Portfolio.pdf)
 
+## 🤖 Fraud & Risk Analytics — Credit Card Fraud Detection (ML)
+
+Objective  
+Built a machine learning solution to detect fraudulent credit card transactions while minimizing false positives and customer disruption.
+
+Highlights  
+• Extreme class imbalance handling (<0.2% fraud rate)  
+• Model comparison: Logistic Regression vs Random Forest  
+• Business-driven metric selection (Precision, Recall, ROC-AUC)  
+• Recommendation based on customer experience, not just accuracy  
+
+Key Insight  
+Random Forest significantly reduces false positives compared to Logistic Regression, making it more suitable for real-world fraud prevention systems.
+
+📄 [View Project PDF](outputs/Fraud_Risk_Analytics_Credit_Card_Fraud_Portfolio.pdf) 
+
+
