@@ -72,3 +72,19 @@ Key Insights:
 
 📄 [View Project PDF](outputs/Python_Quantitative_Finance_Toolkit_Portfolio.pdf)
 
+## 🤖 FinTech Robo-Advisor — Retirement Planning
+
+Objective  
+Developed a digital retirement planning Robo-Advisor to estimate inflation-adjusted retirement corpus and required monthly SIP using real-world financial logic.
+
+Highlights  
+• Inflation-adjusted retirement corpus estimation using real returns  
+• SIP calculation based on annuity-style cash flow modeling  
+• Precision benchmarking against Excel financial models  
+• Responsive, production-ready web interface  
+
+Key Insight  
+Even small numerical precision errors can materially impact long-term financial outcomes, making validation and accuracy critical in FinTech applications.
+
+📄 [View Project PDF](outputs/FinTech_Robo_Advisor_Retirement_Planning_Portfolio.pdf)
+
